@@ -1,0 +1,9 @@
+name: simple-dungeons
+main: ru.rusekh.simpledungeons.DungeonPlugin
+author: rusekh
+version: dev
+
+commands:
+  start:
+  stats:
+  leave:
